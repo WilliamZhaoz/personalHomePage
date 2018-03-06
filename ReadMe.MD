@@ -1,1 +1,1 @@
-# [my home page](zhiyuanzhao.com)
+# [my home page](http://www.zhiyuanzhao.com)
